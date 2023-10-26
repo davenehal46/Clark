@@ -1,0 +1,404 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Auto Insurance",
+      "image": "https://picsum.photos/id/1",
+      "price": 200,
+      "unit": "€",
+      "description": "Comprehensive insurance coverage for your car, providing peace of mind and financial protection in case of accidents, theft, or damage."
+    },
+    {
+      "id": 2,
+      "name": "Health Insurance",
+      "image": "https://picsum.photos/id/2",
+      "price": 100,
+      "unit": "€",
+      "description": "Affordable health coverage that includes doctor visits, prescription medications, and preventive care."
+    },
+    {
+      "id": 3,
+      "name": "Home Insurance",
+      "image": "https://picsum.photos/id/3",
+      "price": 150,
+      "unit": "€",
+      "description": "Protection for your home, covering damages from fires, storms, burglaries, and more."
+    },
+    {
+      "id": 4,
+      "name": "Travel Insurance",
+      "image": "https://picsum.photos/id/4",
+      "price": 50,
+      "unit": "€",
+      "description": "Travel with confidence knowing you're covered for trip cancellations, lost baggage, and medical emergencies."
+    },
+    {
+      "id": 5,
+      "name": "Life Insurance",
+      "image": "https://picsum.photos/id/5",
+      "price": 250,
+      "unit": "€",
+      "description": "Ensure financial security for your loved ones in case of an unfortunate event. Protect their future."
+    },
+    {
+      "id": 6,
+      "name": "Pet Insurance",
+      "image": "https://picsum.photos/id/6",
+      "price": 30,
+      "unit": "€",
+      "description": "Comprehensive coverage for your furry friends, covering vet bills and unexpected pet health expenses."
+    },
+    {
+      "id": 7,
+      "name": "Renters Insurance",
+      "image": "https://picsum.photos/id/7",
+      "price": 120,
+      "unit": "€",
+      "description": "Protection for your rented home, covering personal belongings, liability, and more."
+    },
+    {
+      "id": 8,
+      "name": "Boat Insurance",
+      "image": "https://picsum.photos/id/8",
+      "price": 180,
+      "unit": "€",
+      "description": "Insurance for your boat or watercraft, covering damage, accidents, and liability on the water."
+    },
+    {
+      "id": 9,
+      "name": "Travel Cancellation Insurance",
+      "image": "https://picsum.photos/id/9",
+      "price": 70,
+      "unit": "€",
+      "description": "Peace of mind for your trips, providing reimbursement for canceled travel plans and unexpected events."
+    },
+    {
+      "id": 10,
+      "name": "Business Insurance",
+      "image": "https://picsum.photos/id/10",
+      "price": 300,
+      "unit": "€",
+      "description": "Protection for your business, covering property, liability, and more for entrepreneurs and enterprises."
+    },
+    {
+      "id": 11,
+      "name": "Dental Insurance",
+      "image": "https://picsum.photos/id/11",
+      "price": 80,
+      "unit": "€",
+      "description": "Comprehensive dental coverage, including routine check-ups, cleanings, and major dental procedures."
+    },
+    {
+      "id": 12,
+      "name": "Cyber Insurance",
+      "image": "https://picsum.photos/id/12",
+      "price": 170,
+      "unit": "€",
+      "description": "Protection for your business or personal data against cyber threats, including data breaches and hacking."
+    },
+    {
+      "id": 13,
+      "name": "Flood Insurance",
+      "image": "https://picsum.photos/id/13",
+      "price": 110,
+      "unit": "€",
+      "description": "Coverage for damage caused by flooding, protecting your property and possessions during floods."
+    },
+    {
+      "id": 14,
+      "name": "Earthquake Insurance",
+      "image": "https://picsum.photos/id/14",
+      "price": 190,
+      "unit": "€",
+      "description": "Protection against earthquake damage to your property and belongings, ensuring financial stability."
+    },
+    {
+      "id": 15,
+      "name": "Renters Insurance",
+      "image": "https://picsum.photos/id/15",
+      "price": 120,
+      "unit": "€",
+      "description": "Coverage for renters, including personal belongings, liability, and protection against unforeseen events."
+    },
+    {
+      "id": 16,
+      "name": "Boat Insurance",
+      "image": "https://picsum.photos/id/16",
+      "price": 180,
+      "unit": "€",
+      "description": "Insurance for your boat or watercraft, covering damage, accidents, and liability on the water."
+    },
+    {
+      "id": 17,
+      "name": "Travel Cancellation Insurance",
+      "image": "https://picsum.photos/id/17",
+      "price": 70,
+      "unit": "€",
+      "description": "Peace of mind for your trips, providing reimbursement for canceled travel plans and unexpected events."
+    },
+    {
+      "id": 18,
+      "name": "Business Insurance",
+      "image": "https://picsum.photos/id/18",
+      "price": 300,
+      "unit": "€",
+      "description": "Protection for your business, covering property, liability, and more for entrepreneurs and enterprises."
+    },
+    {
+      "id": 19,
+      "name": "Dental Insurance",
+      "image": "https://picsum.photos/id/19",
+      "price": 80,
+      "unit": "€",
+      "description": "Comprehensive dental coverage, including routine check-ups, cleanings, and major dental procedures."
+    },
+    {
+      "id": 20,
+      "name": "Cyber Insurance",
+      "image": "https://picsum.photos/id/20",
+      "price": 170,
+      "unit": "€",
+      "description": "Protection for your business or personal data against cyber threats, including data breaches and hacking."
+    },
+    {
+      "id": 21,
+      "name": "Flood Insurance",
+      "image": "https://picsum.photos/id/21",
+      "price": 110,
+      "unit": "€",
+      "description": "Coverage for damage caused by flooding, protecting your property and possessions during floods."
+    },
+    {
+      "id": 22,
+      "name": "Earthquake Insurance",
+      "image": "https://picsum.photos/id/22",
+      "price": 190,
+      "unit": "€",
+      "description": "Protection against earthquake damage to your property and belongings, ensuring financial stability."
+    },
+    {
+      "id": 23,
+      "name": "Renters Insurance",
+      "image": "https://picsum.photos/id/23",
+      "price": 120,
+      "unit": "€",
+      "description": "Coverage for renters, including personal belongings, liability, and protection against unforeseen events."
+    },
+    {
+      "id": 24,
+      "name": "Boat Insurance",
+      "image": "https://picsum.photos/id/24",
+      "price": 180,
+      "unit": "€",
+      "description": "Insurance for your boat or watercraft, covering damage, accidents, and liability on the water."
+    },
+    {
+      "id": 25,
+      "name": "Travel Cancellation Insurance",
+      "image": "https://picsum.photos/id/25",
+      "price": 70,
+      "unit": "€",
+      "description": "Peace of mind for your trips, providing reimbursement for canceled travel plans and unexpected events."
+    },
+    {
+      "id": 26,
+      "name": "Business Insurance",
+      "image": "https://picsum.photos/id/26",
+      "price": 300,
+      "unit": "€",
+      "description": "Protection for your business, covering property, liability, and more for entrepreneurs and enterprises."
+    },
+    {
+      "id": 27,
+      "name": "Dental Insurance",
+      "image": "https://picsum.photos/id/27",
+      "price": 80,
+      "unit": "€",
+      "description": "Comprehensive dental coverage, including routine check-ups, cleanings, and major dental procedures."
+    },
+    {
+      "id": 28,
+      "name": "Cyber Insurance",
+      "image": "https://picsum.photos/id/28",
+      "price": 170,
+      "unit": "€",
+      "description": "Protection for your business or personal data against cyber threats, including data breaches and hacking."
+    },
+    {
+      "id": 29,
+      "name": "Flood Insurance",
+      "image": "https://picsum.photos/id/29",
+      "price": 110,
+      "unit": "€",
+      "description": "Coverage for damage caused by flooding, protecting your property and possessions during floods."
+    },
+    {
+      "id": 30,
+      "name": "Earthquake Insurance",
+      "image": "https://picsum.photos/id/30",
+      "price": 190,
+      "unit": "€",
+      "description": "Protection against earthquake damage to your property and belongings, ensuring financial stability."
+    },
+    {
+      "id": 31,
+      "name": "Renters Insurance",
+      "image": "https://picsum.photos/id/31",
+      "price": 120,
+      "unit": "€",
+      "description": "Coverage for renters, including personal belongings, liability, and protection against unforeseen events."
+    },
+    {
+      "id": 32,
+      "name": "Boat Insurance",
+      "image": "https://picsum.photos/id/32",
+      "price": 180,
+      "unit": "€",
+      "description": "Insurance for your boat or watercraft, covering damage, accidents, and liability on the water."
+    },
+    {
+      "id": 33,
+      "name": "Travel Cancellation Insurance",
+      "image": "https://picsum.photos/id/33",
+      "price": 70,
+      "unit": "€",
+      "description": "Peace of mind for your trips, providing reimbursement for canceled travel plans and unexpected events."
+    },
+    {
+      "id": 34,
+      "name": "Business Insurance",
+      "image": "https://picsum.photos/id/34",
+      "price": 300,
+      "unit": "€",
+      "description": "Protection for your business, covering property, liability, and more for entrepreneurs and enterprises."
+    },
+    {
+      "id": 35,
+      "name": "Dental Insurance",
+      "image": "https://picsum.photos/id/35",
+      "price": 80,
+      "unit": "€",
+      "description": "Comprehensive dental coverage, including routine check-ups, cleanings, and major dental procedures."
+    },
+    {
+      "id": 36,
+      "name": "Cyber Insurance",
+      "image": "https://picsum.photos/id/36",
+      "price": 170,
+      "unit": "€",
+      "description": "Protection for your business or personal data against cyber threats, including data breaches and hacking."
+    },
+    {
+      "id": 37,
+      "name": "Flood Insurance",
+      "image": "https://picsum.photos/id/37",
+      "price": 110,
+      "unit": "€",
+      "description": "Coverage for damage caused by flooding, protecting your property and possessions during floods."
+    },
+    {
+      "id": 38,
+      "name": "Earthquake Insurance",
+      "image": "https://picsum.photos/id/38",
+      "price": 190,
+      "unit": "€",
+      "description": "Protection against earthquake damage to your property and belongings, ensuring financial stability."
+    },
+    {
+      "id": 39,
+      "name": "Renters Insurance",
+      "image": "https://picsum.photos/id/39",
+      "price": 120,
+      "unit": "€",
+      "description": "Coverage for renters, including personal belongings, liability, and protection against unforeseen events."
+    },
+    {
+      "id": 40,
+      "name": "Boat Insurance",
+      "image": "https://picsum.photos/id/40",
+      "price": 180,
+      "unit": "€",
+      "description": "Insurance for your boat or watercraft, covering damage, accidents, and liability on the water."
+    },
+    {
+      "id": 41,
+      "name": "Travel Cancellation Insurance",
+      "image": "https://picsum.photos/id/41",
+      "price": 70,
+      "unit": "€",
+      "description": "Peace of mind for your trips, providing reimbursement for canceled travel plans and unexpected events."
+    },
+    {
+      "id": 42,
+      "name": "Business Insurance",
+      "image": "https://picsum.photos/id/42",
+      "price": 300,
+      "unit": "€",
+      "description": "Protection for your business, covering property, liability, and more for entrepreneurs and enterprises."
+    },
+    {
+      "id": 43,
+      "name": "Dental Insurance",
+      "image": "https://picsum.photos/id/43",
+      "price": 80,
+      "unit": "€",
+      "description": "Comprehensive dental coverage, including routine check-ups, cleanings, and major dental procedures."
+    },
+    {
+      "id": 44,
+      "name": "Cyber Insurance",
+      "image": "https://picsum.photos/id/44",
+      "price": 170,
+      "unit": "€",
+      "description": "Protection for your business or personal data against cyber threats, including data breaches and hacking."
+    },
+    {
+      "id": 45,
+      "name": "Flood Insurance",
+      "image": "https://picsum.photos/id/45",
+      "price": 110,
+      "unit": "€",
+      "description": "Coverage for damage caused by flooding, protecting your property and possessions during floods."
+    },
+    {
+      "id": 46,
+      "name": "Earthquake Insurance",
+      "image": "https://picsum.photos/id/46",
+      "price": 190,
+      "unit": "€",
+      "description": "Protection against earthquake damage to your property and belongings, ensuring financial stability."
+    },
+    {
+      "id": 47,
+      "name": "Renters Insurance",
+      "image": "https://picsum.photos/id/47",
+      "price": 120,
+      "unit": "€",
+      "description": "Coverage for renters, including personal belongings, liability, and protection against unforeseen events."
+    },
+    {
+      "id": 48,
+      "name": "Boat Insurance",
+      "image": "https://picsum.photos/id/48",
+      "price": 180,
+      "unit": "€",
+      "description": "Insurance for your boat or watercraft, covering damage, accidents, and liability on the water."
+    },
+    {
+      "id": 49,
+      "name": "Travel Cancellation Insurance",
+      "image": "https://picsum.photos/id/49",
+      "price": 70,
+      "unit": "€",
+      "description": "Peace of mind for your trips, providing reimbursement for canceled travel plans and unexpected events."
+    },
+    {
+      "id": 50,
+      "name": "Business Insurance",
+      "image": "https://picsum.photos/id/50",
+      "price": 300,
+      "unit": "€",
+      "description": "Protection for your business, covering property, liability, and more for entrepreneurs and enterprises."
+    }
+  ]
+}
